@@ -1,4 +1,4 @@
-h1. This is the data for a blog
+h1. This is the data for a test blog
 
 It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
 
